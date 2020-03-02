@@ -1,0 +1,5 @@
+Title: Sample note
+Tags: ['sample', 'tags']
+Date: 02-03-2020
+Body: Sample text
+>>Sample To-Do

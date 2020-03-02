@@ -1,0 +1,7 @@
+Title: Guide
+Tags: ['sample', 'tags']
+Date: 02-03-2020
+Body: Add text here.
+^D to clear textbox and tags.
+^Q to cancel.
+Tags are optional and should be comma seperated values.

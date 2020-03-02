@@ -1,0 +1,1 @@
+{"02-03-2020**Sample*note": ["2020-03-02-225303", "database\\notebook1\\2020-03-02-225303", ["sample", "tags"]], "02-03-2020**Sample*note*2*Edited": ["02-03-2020**Sample*note*2*Edited", "database\\notebook1\\2020-03-02-225521", ["edited"]], "02-03-2020**Guide": ["2020-03-02-230344", "database\\notebook2\\2020-03-02-230344", ["sample", "tags"]]}
